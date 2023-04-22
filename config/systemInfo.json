@@ -1,0 +1,63 @@
+{
+    "DESKTOP-JPEVRTS": {
+        "cpuInfo": {
+            "manufacturer": "AMD",
+            "brand": "Ryzen 7 3800X 8-Core Processor",
+            "speed": "3.9",
+            "speedMin": "3.9GHz",
+            "speedMax": "3.9GHz",
+            "governor": "",
+            "cores": "16",
+            "physicalCores": "8",
+            "performanceCores": "16",
+            "efficiencyCores": "0",
+            "processors": "1",
+            "socket": "AM4",
+            "vendor": "AuthenticAMD",
+            "family": "23",
+            "model": "113",
+            "stepping": "0",
+            "revision": "28928",
+            "voltage": "",
+            "flags": "de pse tsc msr sep mtrr mca cmov psn clfsh ds mmx fxsr sse sse2 ss htt tm ia64 pbe",
+            "virtualisation": "undefined",
+            "cache": "[object Object]",
+            "cache.l1d": "256",
+            "cache.l1i": "256",
+            "cache.l2": "4194304",
+            "cache.l3": "33554432"
+        },
+        "memInfo": {
+            "total": "17121550336",
+            "free": "10115706880",
+            "used": "7005851648",
+            "active": "7005851648",
+            "buffcache": "0",
+            "buffers": "0",
+            "cached": "0",
+            "slab": "0",
+            "available": "10115698688",
+            "swaptotal": "536870912",
+            "swapused": "19922944",
+            "swapfree": "516947968"
+        },
+        "batteryInfo": {
+            "hasBattery": "false",
+            "cycleCount": "0",
+            "isCharging": "false",
+            "designedCapacity": "0",
+            "maxCapacity": "0",
+            "currentCapacity": "0",
+            "capacityUnit": "",
+            "voltage": "0",
+            "percent": "0",
+            "timeRemaining": "null",
+            "acConnected": "true",
+            "type": "",
+            "model": "",
+            "manufacturer": "",
+            "serial": "",
+            "additionaBatteries": "undefined"
+        }
+    }
+}
